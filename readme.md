@@ -1,13 +1,18 @@
 <h1 align="center">Hallo 👋, I'm Rafi Haidari</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<p align="center"> <a href="https://twitter.com/rafi_haidari" target="blank"><img src="https://img.shields.io/twitter/follow/rafi_haidari?logo=twitter&style=for-the-badge" alt="rafi_haidari" /></a> </p>
+<p align="center"> 
+    <a href="https://twitter.com/rafi_haidari" target="blank"><img src="https://img.shields.io/twitter/follow/rafi_haidari?logo=twitter&style=for-the-badge" alt="rafi_haidari" /></a>
+    <a href="https://www.linkedin.com/in/rafi-haidari" target="blank"><img src="https://img.shields.io/twitter/follow/rafi-haidari?logo=linkedin&style=for-the-badge" alt="rafi-haidari" /></a>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=rafihaidari&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+I'm Rafi Haidari, a seasoned self-taught full stack web developer with over 8 years of hands-on experience. My passion lies in crafting innovative solutions and collaborating with global teams to achieve exceptional results.
 
 ## Open to
 - Collaborating on impactful web development projects  
 - Engaging with remote teams across diverse domains  
-- Exploring new opportunities and challenges within the tech community  
+- Exploring new opportunities and challenges within the tech community
 
 ---
 
