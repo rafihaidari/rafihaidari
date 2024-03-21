@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="Logo.png" style="width: 10%" />
+</div>
 <h1 align="center">Hallo 👋, I'm Rafi Haidari</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <p align="center"> 
