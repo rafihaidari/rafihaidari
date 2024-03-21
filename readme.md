@@ -7,8 +7,11 @@
     <a href="https://twitter.com/rafi_haidari" target="blank"><img src="https://img.shields.io/twitter/follow/rafi_haidari?logo=twitter&style=for-the-badge" alt="rafi_haidari" /></a>
     <a href="https://www.linkedin.com/in/rafi-haidari" target="blank"><img src="https://img.shields.io/twitter/follow/rafi-haidari?logo=linkedin&style=for-the-badge" alt="rafi-haidari" /></a>
 </p>
-
+<div align="center">
+    
 [![](https://visitcount.itsvg.in/api?id=rafihaidari&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+ 
+</div>
 
 I'm Rafi Haidari, a seasoned self-taught full stack web developer with over 8 years of hands-on experience. My passion lies in crafting innovative solutions and collaborating with global teams to achieve exceptional results.
 
